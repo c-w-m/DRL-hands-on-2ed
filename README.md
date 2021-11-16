@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning-Hands-On-Second-Edition
+# [Deep-Reinforcement-Learning-Hands-On-Second-Edition](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
 Deep-Reinforcement-Learning-Hands-On-Second-Edition, published by Packt
 
 ## Code branches
